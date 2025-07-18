@@ -9,4 +9,4 @@ A travel based ui design  designed in Figma.
 FIGMA LINK - https://www.figma.com/proto/hv6m5HAWQ2KD4kPyGO8Og8/UIUX?node-id=284-813&t=aASkRplclS5y47J8-1
 
 **SIMPLE_CARS_SLIDING 
-FIGMA LINK - https://www.figma.com/proto/hv6m5HAWQ2KD4kPyGO8Og8/UIUX?node-id=162-114&t=aASkRplclS5y47J8-1
+FIGMA LINK - https://www.figma.com/proto/hv6m5HAWQ2KD4kPyGO8Og8/UIUX?node-id=162-114&t=UquxZBxc0ZX24kPP-1
